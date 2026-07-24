@@ -1,0 +1,3 @@
+@openzeppelin/contracts/=./@openzeppelin/contracts/
+@openzeppelin/contracts-upgradeable/=./@openzeppelin/contracts-upgradeable/
+@chainlink/contracts-ccip/=./@chainlink/contracts-ccip/
